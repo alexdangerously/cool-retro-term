@@ -26,7 +26,6 @@ import "Components"
 
 ColumnLayout {
     GroupBox {
-        color: "goldenrod"
         Layout.fillWidth: true
         title: qsTr("Command")
 
