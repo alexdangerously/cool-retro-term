@@ -24,6 +24,8 @@ import QtQml 2.0
 
 import "Components"
 
+setStyleSheet(“background-color: gold;”)
+
 ColumnLayout {
     GroupBox {
         Layout.fillWidth: true
